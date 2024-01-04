@@ -10,4 +10,4 @@ function countVowels(str) {
     console.log(count);
 }
 
-countVowels("aaryan");
+countVowels("aaryantiwari");
