@@ -14,7 +14,7 @@ for (let i = 0; i < marks.length; i++) {
 let avg = sum / marks.length;
 console.log("Sum of all the numbers: ", sum);
 console.log("Number of Students: ", marks.length);
-console.log("Average of Class is: ", avg);
+console.log("Average of Class is....: ", avg);
 
 
 //For-Of Loop:
