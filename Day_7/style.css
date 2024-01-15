@@ -2,9 +2,17 @@
     background-color: rgb(0, 136, 255);
     height: 200px;
     width: 200px;
-    color: aliceblue;
+    color: rgb(180, 190, 199);
     text-align: center;
     border: 2px solid black;
     margin: 5px;
+}
 
+.content{
+    color:rgb(126, 246, 255);
+    text-align: center;
+}
+
+.newClass{
+    background-color: black;
 }
